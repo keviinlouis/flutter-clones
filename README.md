@@ -1,8 +1,8 @@
 # flutter_clones
 A repository for cloning apps layouts 
 
-- [ ] Instagram
-- [ ] Nubank
+- [x] Instagram
+- [x] Nubank
 - [ ] Neon
 - [ ] Netflix
 
